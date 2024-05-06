@@ -1,4 +1,4 @@
-# TheCineExplore\
+# TheCineExplore \
 ![image](https://github.com/xKerelek/TheCineExplore_final/assets/132664153/1782d338-addc-4d7f-bd81-27da138ea39b)
 
 
