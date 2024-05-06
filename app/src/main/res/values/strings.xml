@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">TheCineExplore_final</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_anime">Anime</string>
+    <string name="menu_app_info">APP INFO</string>
+    <string name="app_info">Informacje o aplikacji</string>
+    <string name="app_name_value">TheCineExplore</string>
+    <string name="version">Wersja</string>
+    <string name="author">Autor</string>
+    <string name="author_name">Twoje imię i nazwisko</string>
+    <string name="website">Strona internetowa</string>
+    <string name="website_link">http://www.example.com</string>
+    <string name="email">Email</string>
+    <string name="author_email">author@example.com</string>
+    <string name="unknown">version 1.0</string>
+    <string name="ok">OK</string>
+
+    <string name="title_calendar">Calendar</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="demo_description">3333333333
+        dbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+        dbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+        dbssnggdddddddffffffffffffffffffffffffffffffffffffffffffffffffff
+        fffffffffffffffffffffffffffffffff
+        dfg
+        fdbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+        cvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+        sbdffdbgsfgkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+        xxxxxxxxxxxxxxxewfkgvno khubvkusnv
+        dfbdslkb j;ljdmd
+        sdpfffffffffffffffffffffff
+        dfssfffffffffffffffffffffffffffff
+        s
+        dgfvvvvvvvvvvvvvvvvvvvvvv
+        sfvsdfkxxxxx
+        11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+        assssssssssssssssssssssssssssssssssssssss
+        eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeas
+        qeffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        qeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+        3weeee333333333333333333333333333333333333333</string>
+
+</resources>
