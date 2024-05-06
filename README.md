@@ -2,7 +2,7 @@
 <h3>Projekt studentów studentów Akademi Tarnowskiej</h3>
 <br>
 <br>
-<h5><b>The Cine Explore</b> </h5><h5>to aplikacja, która umożliwia użytkownikom eksplorowanie świata
+<h5><strong>The Cine Explore</strong> </h5><h5>to aplikacja, która umożliwia użytkownikom eksplorowanie świata
 filmów i anime. Korzystając z Draver Navigation Activity, zapewnia wygodne nawigowanie po
 różnych funkcjach. Aplikacja została zoptymalizowana pod kątem dostępu do internetu.
 Główne funkcje aplikacji obejmują wyszukiwanie filmów i anime przy użyciu Kitsune API
