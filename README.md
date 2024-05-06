@@ -11,3 +11,4 @@
 <h4>Karol Nowak</h4>
 <h4>Krystian Wiatr</h4>
 <h2>Zródło</h2>
+<p>Api pod Anime- https://kitsu.docs.apiary.io/#introduction/json:api</p>
