@@ -18,4 +18,6 @@ Navigation, użytkownicy mogą łatwo nawigować między różnymi sekcjami apli
 Home, Anime oraz AppInfo, co zapewnia płynne korzystanie z funkcji i treści dostępnych w
 aplikacji.</h5>
 <br>
-<h2>Aplikacja N</h2>
+<h2>Aplikacja Napisali</h2>
+<h4>Krystian Wiatr</h4>
+<h4>Krystian Wiatr</h4>
