@@ -10,5 +10,4 @@
 <h2>Aplikacja Napisali</h2>
 <h4>Karol Nowak</h4>
 <h4>Krystian Wiatr</h4>
-##Zródło|
-
+<h2>Zródło</h2>
