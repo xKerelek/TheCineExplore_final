@@ -1,5 +1,7 @@
 <h1>TheCineExplore</h1>
 <h3>Projekt studentów studentów Akademi Tarnowskiej</h3>
+<br>
+<br>
 <h5>The Cine Explore to aplikacja, która umożliwia użytkownikom eksplorowanie świata
 filmów i anime. Korzystając z Draver Navigation Activity, zapewnia wygodne nawigowanie po
 różnych funkcjach. Aplikacja została zoptymalizowana pod kątem dostępu do internetu.
@@ -15,3 +17,5 @@ przekierowywani do menu głównego, gdzie mogą przeglądać filmy i anime. Dzi�
 Navigation, użytkownicy mogą łatwo nawigować między różnymi sekcjami aplikacji, takimi jak
 Home, Anime oraz AppInfo, co zapewnia płynne korzystanie z funkcji i treści dostępnych w
 aplikacji.</h5>
+<br>
+<h2>S</h2>
