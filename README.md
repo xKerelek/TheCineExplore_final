@@ -19,5 +19,5 @@ Home, Anime oraz AppInfo, co zapewnia płynne korzystanie z funkcji i treści do
 aplikacji.</h5>
 <br>
 <h2>Aplikacja Napisali</h2>
-<h4>Krystian Wiatr</h4>
+<h4>Karol Nowak</h4>
 <h4>Krystian Wiatr</h4>
